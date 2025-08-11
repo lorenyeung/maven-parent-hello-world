@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <commons.version>3.12.0</commons.version> <!-- defines version -->
+    commons.version>3.12.0</commons.version> <!-- defines version -->
   </properties>
 
   <dependencyManagement>
